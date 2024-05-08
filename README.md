@@ -1,7 +1,7 @@
 
 # Testing webook with github and Jenkins with Tech257 live demo
 
-clear
+clear test
 
 
 # CICD testing cde
